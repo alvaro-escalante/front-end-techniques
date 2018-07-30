@@ -41,8 +41,7 @@ ___
 ___
 
 
-###*HTML*
-###
+###HTML
 
 ```html
 <ul id='slides'>
@@ -52,8 +51,8 @@ ___
 </ul>
 ```
 
-###*CSS*
-###
+###CSS
+
 
 ```css
 #slides {
@@ -88,8 +87,8 @@ slide:nth-of-type(3) { background-image: url('../img/hero/hero_3.jpg') }
 ```
 
 
-####*JavaScript*
-####
+####JavaScript
+
 
 ```javascript
 
@@ -110,8 +109,8 @@ ___
 ###
 ___
 
-####*JavaScript*
-####
+####JavaScript
+
 
 
 ```javascript
@@ -126,8 +125,8 @@ ___
 ###
 ___
 
-####*HTML*
-####
+####HTML
+
 
 ```HTML
 
@@ -144,8 +143,8 @@ ___
 	</div>
 </div>
 ```
-####*CSS*
-####
+####CSS
+
 ```css
 .modal {
   display: none;
@@ -176,8 +175,8 @@ ___
 
 ```
 
-####*JavaScript*
-####
+####JavaScript
+
 ```javascript
 
 modalWindow: () => {    
@@ -201,8 +200,8 @@ ___
 ###
 ___
 
-####*JavaScript*
-####
+####JavaScript
+
 
 ```javascript
 
@@ -220,8 +219,8 @@ ___
 ###
 ___
 
-####*JavaScript*
-####
+####JavaScript
+
 
 ```javascript
 // Function to smooth scroll to a given element 
@@ -243,8 +242,8 @@ ___
 ###
 ___
 
-####*HTML*
-####
+####HTML
+
 
 ```HTML
 <ul class="sharelinks">
@@ -260,8 +259,8 @@ ___
 </ul>
 ```
 
-####*JavaScript*
-####
+####JavaScript
+
 
 ```Javascript
 // Automated script that gathers metadata from markup to social sharing links
