@@ -40,8 +40,7 @@ ___
 ###
 ___
 
-
-###HTML
+HTML
 
 ```html
 <ul id='slides'>
@@ -51,7 +50,7 @@ ___
 </ul>
 ```
 
-###CSS
+CSS
 
 
 ```css
@@ -87,7 +86,7 @@ slide:nth-of-type(3) { background-image: url('../img/hero/hero_3.jpg') }
 ```
 
 
-####JavaScript
+JavaScript
 
 
 ```javascript
@@ -109,7 +108,7 @@ ___
 ###
 ___
 
-####JavaScript
+JavaScript
 
 
 
@@ -125,7 +124,7 @@ ___
 ###
 ___
 
-####HTML
+HTML
 
 
 ```HTML
@@ -143,7 +142,7 @@ ___
 	</div>
 </div>
 ```
-####CSS
+CSS
 
 ```css
 .modal {
@@ -175,7 +174,7 @@ ___
 
 ```
 
-####JavaScript
+JavaScript
 
 ```javascript
 
@@ -200,7 +199,7 @@ ___
 ###
 ___
 
-####JavaScript
+JavaScript
 
 
 ```javascript
@@ -219,7 +218,7 @@ ___
 ###
 ___
 
-####JavaScript
+JavaScript
 
 
 ```javascript
@@ -242,7 +241,7 @@ ___
 ###
 ___
 
-####HTML
+HTML
 
 
 ```HTML
@@ -259,7 +258,7 @@ ___
 </ul>
 ```
 
-####JavaScript
+JavaScript
 
 
 ```Javascript
